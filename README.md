@@ -1,237 +1,151 @@
-# Awesome Remote Job list
+# Remote-Jobs List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated remote job listing
+List of job boards focused on software engineering and remote jobs.
 
-## Table of Contents
+## Index
+<!--lint disable awesome-list-item-->
+- [Freelance Marketplaces](#freelance-marketplaces)
+- [Startups](#Startups)
+- [Directory](#directory)
+- [Other websites](#other-websites)
+- [Misc](#misc)
+<!--lint enable awesome-list-item-->
 
-- [Web](#web)
-  - [JavaScript](#javascript) ![js](https://api.iconify.design/vscode-icons:file-type-js.svg)
-  - [Vue](#vuejs) ![vuejs](https://api.iconify.design/vscode-icons:file-type-vue.svg)
-  - [React](#react) ![react](https://api.iconify.design/vscode-icons:file-type-reactjs.svg)
-  - [Angular](#angular) ![angular](https://api.iconify.design/logos:angular-icon.svg)
-  - [Svelte](#svelte) ![svelte](https://api.iconify.design/logos:svelte-icon.svg)
-  - [Astro](#astro) ![Astro](https://api.iconify.design/logos:astro-icon.svg)
-  - [NestJS](#nestjs) ![nestJs](https://api.iconify.design/logos:nestjs.svg)
-  - [Remix](#remix) ![remix](https://api.iconify.design/logos:remix-icon.svg)
-  - [SolidJS](#solidjs) ![solidjs](https://api.iconify.design/devicon:solidjs.svg)
-- [Mobile](#mobile)
-  - [Flutter](#flutter) ![flutter](https://api.iconify.design/logos:flutter.svg)
-  - [Kotlin](#kotlin) ![kotlin](https://api.iconify.design/logos:kotlin-icon.svg)
-  - [Swift](#swift) ![swift](https://api.iconify.design/logos:swift.svg)
-  - [Android](#android) ![android](https://api.iconify.design/logos:android-icon.svg)
-  - [iOS](#ios) ![iOS](https://api.iconify.design/logos:apple.svg)
-- [Rust 🦀](#rust)
-- [GO](#go) ![go](https://api.iconify.design/logos:go.svg)
-- [Ruby](#ruby) ![ruby](https://api.iconify.design/logos:ruby.svg)
-- [Python](#python) ![python](https://api.iconify.design/logos:python.svg)
-- [PHP](#php) ![php](https://api.iconify.design/logos:php.svg)
-- [Java](#java) ![java](https://api.iconify.design/logos:java.svg)
-- [C/C++](#cpp) ![cpp](https://api.iconify.design/vscode-icons:file-type-cpp3.svg)
-- [C#](#csharp) ![csharp](https://api.iconify.design/vscode-icons:file-type-csharp2.svg)
-- [.Net](#dotnet) ![dotnet](https://api.iconify.design/logos:dotnet.svg)
-- [Erlang/Elixir](#elixir) ![elixir](https://api.iconify.design/vscode-icons:file-type-elixir.svg)
-- [Clojure](#clojure) ![clojure](https://api.iconify.design/logos:clojure.svg)
-- [DevOps](#devops) ![devops](https://api.iconify.design/solar:infinity-bold-duotone.svg)
-- [Mojo 🔥](#mojo)
-- [ML](#ml)
-- [Startups](#startups)
-- [Design](#design)
-- [Project Manager](#pm)
-- [By level/degree](#bylevel)
-  - [Junior](https://startup.jobs/junior-jobs)
-  - [Middle](#middle)
-  - [Senior](#senior)
-  - [Lead](#lead)
-  - [Staff](#staff)
-  - [Principal](#principal)
-  - [CTO](#cto)
-- [Employment Websites](#employment-websites)
-  - [Wellfound (formerly AngelList Talent)](https://wellfound.com/jobs)
-  - [Startu Jobs](https://startup.jobs/)
-  - [Indeed.com](https://www.indeed.com/)
-  - [4dayweek](https://4dayweek.io/)
-  - [Arc.dev](https://arc.dev/)
-  - [remote.io](https://www.remote.io/)
-  - [LinkedIn](https://www.linkedin.com/jobs)
-  - [remote.co](https://remote.co/)
-  - [remotive](https://remotive.com/)
-  - [WeWorkRemotely](https://weworkremotely.com/)
-  - [Glassdoor](https://www.glassdoor.com/)
-  - [Dice](https://www.dice.com/)
-  - [NoDesk](https://nodesk.co/)
-  - [JustRemote](https://justremote.co/)
-  - [RemoteYeah](https://remoteyeah.com)
-  - [ZipRecruiter](https://www.ziprecruiter.com/)
-  - [FlexJobs](https://www.flexjobs.com/)
-  - [devjobscanner](https://www.devjobsscanner.com/)
-  - [Google Careers](https://careers.google.com/jobs/results/)
-  - [Remote Job Assistant](https://remotejobassistant.com/) | Remote jobs for non-technical workers |
-- [By country](#bycountry)
-  - [US only](#usonly)
-  - [Europe](#europe)
-    - [UK](#uk)
-    - [Germany](#germany)
-  - [Asia](#asia)
-    - [Japan](#japan)
-    - [South Korea](#southkorea)
-    - [Singapore](#singapore)
+## Freelance Marketplaces
+Pure freelancing platforms.
+- [Arc()](https://arc.dev)
+- [Contra](https://contra.com)
+- [Distributed](https://www.distributed.com/)
+- [Fiverr](https://www.fiverr.com/)
+- [Freelancer.com](https://www.freelancer.com/)
+- [FreelancerMap](https://www.freelancermap.com)
+- [Gigged.AI](https://app.gigged.ai/find-a-gig)
+- [Gigster](https://gigster.com/)
+- [Gun.io](https://gun.io/)
+- [Guru](https://www.guru.com/)
+- [Malt](https://www.malt.com/) - Freelancing in Europe.
+- [People Per Hour](https://www.peopleperhour.com/)
+- [TopCoder](https://www.topcoder.com)
+- [Toptal](https://www.toptal.com/)
+- [Workana](https://www.workana.com/) - Only Latin America (?).
 
-## Web
+<!--lint disable awesome-list-item-->
+- ~Upwork~ - [I don't recommend this website because they can ban you for no reason](https://medium.com/@albertorossotto/about-the-right-to-be-forgotten-1d50f1f66a45).
+<!--lint enable awesome-list-item-->
 
-> Web related jobs
+## Directory
+Other lists.
+- [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+- [Job Board Search](https://jobboardsearch.com/) - Lists of job boards.
 
-## JavaScript
+## Startups
+- [Fucking Startup Jobs](https://www.fuckingstartupjobs.com)
+- [Wellfound (AngelList Talent)](https://angel.co/) - Startups.
+- [YCombinator](https://www.ycombinator.com/jobs/role/all/remote/)
+- [YCombinator Co‑Founder Matching](https://www.ycombinator.com/cofounder-matching)
 
-> JavaScript related jobs
+## Other websites
+- [4 day week](https://4dayweek.io/)
+- [ArbeitNow](https://www.arbeitnow.com) - Focus on Germany.
+- [Authentic Jobs](https://authenticjobs.com)
+- [BuiltIn](https://builtin.com/)
+- [Career Vault](https://www.careervault.io) - Companies that prioritize employee well-being.
+- [Climatebase](https://climatebase.org/)
+- [Cord](https://cord.co/) - Mostly UK-based.
+- [Crossover](https://www.crossover.com/)
+- [Crunchboard](https://www.crunchboard.com/) - US.
+- [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/) - Focus on crypto.
+- [Daily Remote](https://dailyremote.com)
+- [Dice](https://www.dice.com)
+- [Data Science Jobs](https://datasciencejobs.com) - Focus on data science.
+- [Devsdata](https://devsdata.com/careers/)
+- [Dynamite Jobs](https://dynamitejobs.com/) - 100% remote from remote-first companies.
+- [Echojobs](https://echojobs.io)
+- [EU Remote Jobs](https://euremotejobs.com)
+- [Eures](https://eures.europa.eu/index_en) - By the EU Commission.
+- [FleX Jobs](https://www.flexjobs.com) - It requires a subscription.
+- [Flexa](https://flexa.careers/) - Reviews of remote-friendly companies.
+- [Found.dev](https://found.dev/)
+- [FoundRole](https://foundrole.com/) - Focus on Texas.
+- [Hubstaff Talent](https://hubstafftalent.net)
+- [Gamejob.works](https://gamejobs.work) - Focus on gaming.
+- [Hack A Job](https://hackajob.co/)
+- [Inclusively Remote](https://inclusivelyremote.com/)
+- [Infosec Jobs](https://infosec-jobs.com/) - Focus on cybersecurity.
+- [Italia Remote](https://italiaremote.com/companies) - List of remote-friendly italian companies.
+- [Job&Careers](https://job.careers) - Free remote jobs from ATS like greenhouse, lever, workable etc.
+- [Jobgether](https://en.jobgether.com)
+- [Jobs Factor](https://jobsfactor.eu)
+- [Jobspresso](https://jobspresso.co/)
+- [JSRemotely](https://jsremotely.com/) - Focus on JavaScript.
+- [JustRemote](https://justremote.co)
+- [Landing Jobs](https://landing.jobs)
+- [Lenny's Jobs](https://www.lennysjobs.com/)
+- [LinkedIn](https://www.linkedin.com/jobs/)
+- [Long Journey Ventures](https://www.longjourney.vc/) - US.
+- [Meet Frank](https://meetfrank.com)
+- [Naukri](https://www.naukri.com) - India.
+- [NoCommute](https://www.nocommutejob.com/) - Newsletter, with subscription.
+- [NoDesk](https://nodesk.co)
+- [OfferZen](https://www.offerzen.com)
+- [OmniJobs](https://omnijobs.io)
+- [Open To Work Remotely](https://www.opentoworkremote.com/)
+- [Powertofly](https://powertofly.com/jobs/) - Mostly US-based.
+- [PyCoder's Jobs](https://www.pythonjobshq.com) - Focus on Python.
+- [Real Job Work From Home](https://realjobworkfromhome.com/)
+- [Real Work From Anywhere](https://www.realworkfromanywhere.com) - 100% remote.
+- [Remote 100](https://remote100k.com/) - High paying remote jobs.
+- [Remote.co](https://remote.co)
+- [Remote Army](https://remotearmy.io/)
+- [Remote Front](https://www.remotefront.com) - Mostly US-based.
+- [Remote Leaf](https://remoteleaf.com/) - Newsletter, subscription-based.
+- [Remote Junkie](https://jobs.remoteworkjunkie.com) - Mostly US-based.
+- [Remote Ok](https://remoteok.com)
+- [Remote Rocketship](https://www.remoterocketship.com)
+- [RemoteFetch](https://remotefetch.com/) - Mostly US-based.
+- [Remoters me](https://www.remoters.me)
+- [Remotesome](https://www.remotesome.com)
+- [Remote Tech Jobs](https://www.remotetechjobs.io/)
+- [Remote World Jobs](https://remoteworldjobs.com) - 100% truly remote.
+- [RemoteWX](https://remotewx.com)
+- [Remotive](https://remotive.com)
+- [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) - Remote and at-home robot-training work (AI video capture, teleoperation), by country.
+- [Sailonchain](https://sailonchain.com) - Focus on cryptocurency.
+- [Skip The Drive](https://www.skipthedrive.com)
+- [Snaphunt](https://snaphunt.com)
+- [Space Crew](https://spacecrew.com) - Focus on the Space industry.
+- [Still Hiring Today](https://stillhiring.today/)
+- [Still Open](https://stillopen.work/)
+- [Swiss Dev Jobs](https://swissdevjobs.ch/) - Focus on Switzerland.
+- [Tech Fetch](https://www.techfetch.com) - US.
+- [Threejs](https://www.threejs-job.com)
+- [Top Jobs Today](https://topjobstoday.com/remote-faang-jobs) - Focus on fresh FAANG and big tech jobs.
+- [Trueup](https://www.trueup.io/)
+- [Truly Remote](https://trulyremote.co)
+- [Trust In Soda](https://www.trustinsoda.com/jobs)
+- [Underdog](https://underdog.io/) - Focus on startups in the US.
+- [Venture Loop](https://www.ventureloop.com)
+- [Virtual Vocation](https://www.virtualvocations.com/) - Subscription required, focus on USA.
+- [We Work Remotely](https://weworkremotely.com)
+- [Welcome To The Jungle](https://global.welcometothejungle.com) - Former [Otta](https://otta.com)
+- [Welyk](https://recruiting.welyk.tech/) - Focus on Italy.
+- [Working Nomads](https://www.workingnomads.com/jobs)
+- [Xing](https://www.xing.com/) - Focus on Germany.
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                                                                                     |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [JS Remotely](https://jsremotely.com/)                                                                   | Welcome to JS Remotely, the job board with all JavaScript remote jobs in the world. More than 200 picked remote NodeJS, Meteor, Angular, React, Electron and Svetle jobs are waiting for you. Find your perfect remote job now. |
-| [JS Jobs in Web3](https://web3.career/javascript+remote-jobs)                                            | JS Jobs in Web3                                                                                                                                                                                                                 |
-
-## Vue
-
-> VueJS related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [VueJobs](https://vuejobs.com/)                                                                          | The leading job board for the Vue.js ecosystem                             |
-| [Nuxt Jobs](https://nuxt.com/support/jobs)                                                               | Browse available openings for coding with Vue and Nuxt all over the world. |
-| [VueJS Jobs \| Wellfound](https://wellfound.com/role/r/vue-js-developer)                                 | Remote VueJS Developer Jobs \| Wellfound (formerly AngelList Talent)       |
-| [Vue Job Board](https://vuejobboard.com/)                                                                | Hire Vue Jobs in 24 Hours Or Less                                          |
-| [devjobsscanner](https://www.devjobsscanner.com/remote-vue-jobs/)                                        | devjobsscanner VueJS                                                       |
-| [Discord VueJobs](https://discord.com/invite/kVqcTzj)                                                    | VueJobs chat on Discord                                                    |
-
-## React
-
-> ReactJS related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [React Jobs \| Wellfound](https://wellfound.com/role/r/react-developer)                                  | Remote React Developer Jobs \| Wellfound (formerly AngelList Talent)                                                                                       |
-| [reactjobs](https://reactjobs.io/)                                                                       | React Jobs is the best place to find jobs in the React.js ecosystem. We have thousands of job opportunities, a convenient search engine, and a newsletter. |
-| [React Jobs](https://reactjsjob.com/)                                                                    | Search React jobs and apply for the right React position. OnSite and Remote React Jobs                                                                     |
-| [REACTjobsboard](https://reactjobsboard.com/c/reactjs-jobs)                                              | REACTjobsboard helps you find the best Reactjs jobs, browse our job board for daily new Reactjs jobs.                                                      |
-| [Reactjobboard](https://www.reactjobboard.com/)                                                          | React JS Developer - React Jobs                                                                                                                            |
-
-## Mobile
-
-> Moblie related jobs
-
-## Flutter
-
-> Flutter related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Flutter Jobs VueJS Jobs](https://flutterjobs.com/)                                                      | Find a job using Flutter, Google’s UI toolkit for building beautiful apps for mobile, web &amp; desktop                                                          |
-| [Flutter Jobs \| Wellfound](https://wellfound.com/role/r/flutter-developer)                              | Remote Flutter Developer Jobs \| Wellfound (formerly AngelList Talent)                                                                                           |
-| [Careers \| Flutter Entertainment plc](https://www.flutter.com/careers)                                  | We create cultures that empower people like you to perform at their best and entertain millions of customers. Find out more about careers at Flutter.            |
-| [Flutter Jobs org](https://flutterjobs.org/)                                                             | Browse and apply to the best remote jobs at remote companies and startups for free. Join hundreds of companies that use Flutterjobs to build their remote teams. |
-| [Flutter Jobs in Web3](https://web3.career/flutter+remote-jobs)                                          | Flutter Jobs in Web3                                                                                                                                             |
-
-## Rust 🦀
-
-> Rust-lang related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                           |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [RustJobs](https://rustjobs.dev/)                                                                        | Looking for a Rust Developer job? RustJobs.dev is exclusively dedicated to Rust jobs. |
-| [Rust Careers](https://rust.careers/)                                                                    | Find your next Rust job                                                               |
-| [Rust Jobs in Web3](https://web3.career/rust+remote-jobs)                                                | Rust Jobs in Web3                                                                     |
-
-## Go
-
-> Go-lang related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description         |
-| -------------------------------------------------------------------------------------------------------- | ------------------- |
-| [Golang Jobs](https://golang.cafe/)                                                                      | Visit Golang cafe   |
-| [Golang Jobs in Web3](https://web3.career/golang+remote-jobs)                                            | Golang Jobs in Web3 |
-
-## Ruby
-
-> Ruby related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description       |
-| -------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Ruby Jobs in Web3](https://web3.career/ruby+remote-jobs)                                                | Ruby Jobs in Web3 |
-
-## Python
-
-> Python related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [VueJS Jobs](https://www.python.org/jobs/)                                                               | The leading job board for the Vue.js ecosystem                             |
-| [Nuxt Jobs](https://nuxt.com/support/jobs)                                                               | Browse available openings for coding with Vue and Nuxt all over the world. |
-| [Python Jobs in Web3](https://web3.career/python+remote-jobs)                                            | Python Jobs in Web3                                                        |
-
-## Mojo
-
-> Mojo related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description       |
-| -------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Mojo Jobs in Web3](https://web3.career/web3-companies/mojo)                                             | Mojo Jobs in Web3 |
-
-## PHP
-
-> PHP related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [larajobs](https://larajobs.com/laravel-jobs)                                                            | The official Laravel job board                                                                                                                                                                                                     |
-| [PHP Remotely](https://phpremotely.com/)                                                                 | Welcome to PHP Remotely, the job board with all PHP remote jobs in the world. More than 200 picked remote Laravel, CodeIgniter, Symfony, CakePHP, Drupal and WordPress jobs are waiting for you. Find your perfect remote job now. |
-| [Indeed PHP Jobs](https://www.indeed.com/q-php-jobs.html)                                                | PHP Jobs in Indeed                                                                                                                                                                                                                 |
-
-## ML
-
-> Machine Learning related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                         |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| [ML-Jobs](https://ml-jobs.com/)                                                                          | Find your next Machine Learning Job |
-| [Agentic Engineering Jobs](https://agentic-engineering-jobs.com)                                          | Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post and browse. |
-| [AI Dev Jobs](https://aidevboard.com)                                                                    | Free jobs board aggregating 5,400+ AI/ML/LLM roles from 55+ ATS sources. MCP server + REST API + RSS for agents. |
-| [First Look Jobs](https://firstlookjobs.com)                                                             | Directory of remote AI training and domain-expert jobs from six referral programs (Mercor, micro1, Turing, Alignerr, Contra, Handshake AI). Advertised pay, weekly hours and country eligibility parsed per listing. |
-
-## Design
-
-> Design related jobs
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                          |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Design jobs \| Design jobs at Adobe](https://careers.adobe.com/us/en/c/design-jobs)                     | Apply for Design jobs at Adobe. Browse our opportunities and apply today to a Adobe Design position. |
-| [Google Design \| Community](https://design.google/community)                                            | Get to know the people who design Google                                                             |
-
-## Employment Websites
-
-> List of Employment Websites
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Remote Jobs With Salary](https://remotejobswithsalary.com/)                                      | Handpicked and curated remote jobs with transparent salaries, designed to save you time and help you find the best opportunities faster. 
-| [Wellfound (formerly AngelList Talent)](https://wellfound.com/jobs)                                      | Search through thousands of startup jobs, across any location or remote, hiring for software engineers, product managers, designers, marketing, sales, and more.                                                                                                                                  |
-| [Startu Jobs](https://startup.jobs/)                                                                     | Looking for a startup job? Apply to 10,000+ jobs at the fastest growing startups. Programming jobs, design jobs, marketing jobs, sales jobs, and more.                                                                                                                                            |
-| [Indeed.com](https://www.indeed.com/)                                                                    | With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, we're with you every step of the way.                                                                                                     |
-| [4dayweek](https://4dayweek.io/)                                                                         | Looking to upgrade your work-life balance? Then make sure your next job has a 4 day work week. Hiring remotely and worldwide now!                                                                                                                                                                 |
-| [Arc.dev](https://arc.dev/)                                                                              | Arc is the leading remote job search platform connecting software developers around the world with top startups and tech companies hiring remotely                                                                                                                                                |
-| [remote.io](https://www.remote.io/)                                                                      | Remote.io is a job board for remote workers and people who wish to work from home. Browse thousands of remote job listings to work at startups and leading companies.                                                                                                                             |
-| [LinkedIn](https://www.linkedin.com/jobs)                                                                | 64% of job seekers get hired through a referral. Use LinkedIn Jobs to boost your chances of getting hired through people you know.                                                                                                                                                                |
-| [remote.co](https://remote.co/)                                                                          | Remote.co is the definitive remote work job board for online job seekers and companies hiring. Start your remote job search here!                                                                                                                                                                 |
-| [remotive](https://remotive.com/)                                                                        | Find the best remote job, working as a developer, customer support rep, product or sales professional... See openings in our categories. All jobs are hand curated and allow remote work. We serve the best work from home jobs in popular categories. Talent is everywhere, work remotely today! |
-| [WeWorkRemotely](https://weworkremotely.com/)                                                            | Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.                                        |
-| [Glassdoor](https://www.glassdoor.com/)                                                                  | Search millions of jobs and get the inside scoop on companies with employee reviews, personalized salary tools, and more. Hiring? Post a job for free.                                                                                                                                            |
-| [Dice](https://www.dice.com/)                                                                            | Search 70,000+ job openings from tech's hottest employers. Salary estimations, career path tips and Insights to make your next career move the right one.                                                                                                                                         |
-| [NoDesk](https://nodesk.co/)                                                                             | Browse and apply to the best new remote jobs at leading remote companies and startups for free. Join hundreds of companies that use NoDesk to build their remote teams.                                                                                                                           |
-| [JustRemote](https://justremote.co/)                                                                     | Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.                                                                                            |
-| [RemoteYeah](https://remoteyeah.com/)                                                                    | Browse thousands of active remote software developer jobs for free. Front-end, back-end, full-stack, DevOps, ML/AL, data engineers and more.                                                                                                                                                      |
-| [ZipRecruiter](https://www.ziprecruiter.com/)                                                            | Search for jobs hiring in your area using ZipRecruiter's job search engine - the best way to find a job. Find jobs hiring near you and apply with just 1 click.                                                                                                                                   |
-| [FlexJobs](https://www.flexjobs.com/)                                                                    | The #1 job site for hand-screened remote jobs (work from home jobs) since 2007. No ads, scams, or junk. Discover a better online job search with FlexJobs!                                                                                                                                        |
-| [devjobscanner](https://www.devjobsscanner.com/)                                                         | More than 500,000+ dev jobs. Devjobsscanner scans over 15+ dev job boards and classifies the dev jobs to be easily searched                                                                                                                                                                       |
-| [Google Careers](https://careers.google.com/jobs/results/)                                               | Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...                                                                                                                                  |
-| [FoundRole](https://foundrole.com/) | AI-powered job search platform and job application tracker for knowledge workers. |
-| [WeWorkFromHome](https://weworkfromhome.com) | Remote job board aggregating listings daily from company Greenhouse, Lever, and Ashby boards. Free for job seekers. |
-| [Real Job Work From Home](https://realjobworkfromhome.com/) | Free remote job browsing without an account, with keyword, employment-type and salary-listed filters and employer application links. |
-| [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote filters. |
+## Misc
+Not the first choice to find remote jobs in software development, but still useful.
+- [80000 hours](https://jobs.80000hours.org) - High-impact careers.
+- [Animated Jobs](https://animatedjobs.com) - Jobs in animation.
+- [Bolt Jobs](https://www.boltjobs.com)
+- [Company Brew](https://companybrew.com) - For New Zeland.
+- [Digital Marketing Jobs](https://www.digitalmarketingjobs.com) - Digital Marketing, SEO, social media, and more.
+- [Dribble](https://dribbble.com) - Creative jobs.
+- [Hanzilla Jobs Remote Canada](https://jobs.hanzilla.co/locations/remote/) - Canadian student and recent-grad remote jobs.
+- [Monster](https://www.monster.com)
+- [People-First Jobs](https://peoplefirstjobs.com)
+- [RemoteHub](https://www.remotehub.com)
+- [Smart Remote Jobs](https://www.smartremotejobs.com)
+- [Teachaway](https://www.teachaway.com/) - For teachers.
+- [What Jobs](https://www.whatjobs.com/) - US and France.
+- [Woody](https://www.woodyjobs.com) - Creative, design, games, social, and more.
